@@ -12,22 +12,21 @@
 * Learning **backend development with Node.js**
 * Exploring **databases and system design**
 * Studying **microcontrollers and digital systems (VHDL)**
-* Getting into **AI and automation workflows** using tools like ChatGPT
 
 ---
 
 ## 🛠️ Tech & Tools
 
 **Languages:**
-C, C++, Java, JavaScript
+C, C++, Java, JavaScript, VHDL
 
 **Web Development:**
 HTML, CSS, Node.js (learning)
 
 **Hardware & Systems:**
-Arduino, Microcontrollers, VHDL
+Arduino, Microcontrollers
 
-**Tools:**
+**IDE & Tools:**
 Git, LaTeX, LTspice, Vivado
 
 ---
@@ -35,7 +34,7 @@ Git, LaTeX, LTspice, Vivado
 ## 🌱 Currently learning
 
 * Backend development (Node.js)
-* Databases (SQL / NoSQL)
+* Databases (PostgreSQL)
 * AI tools and automation
 * Building full-stack applications
 
@@ -49,10 +48,3 @@ Git, LaTeX, LTspice, Vivado
 
 ---
 
-## ⚡ About me
-
-* I enjoy building things and learning by doing
-* Strong interest in both hardware and software systems
-* Always curious about new technologies and how they can solve real-world problems
-
----
