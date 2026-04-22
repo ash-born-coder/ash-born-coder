@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Chanuka 👋
 
-<!--
-**ash-born-coder/ash-born-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Engineering student at HAW Hamburg
+💡 Interested in digital systems, hardware design, and embedded systems
+🚀 Currently learning and building my skills across software, hardware, and web development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm currently working on
+
+* Building a **club dashboard web application** (HTML, CSS, JavaScript, Node.js)
+* Learning **backend development with Node.js**
+* Exploring **databases and system design**
+* Studying **microcontrollers and digital systems (VHDL)**
+* Getting into **AI and automation workflows** using tools like ChatGPT
+
+---
+
+## 🛠️ Tech & Tools
+
+**Languages:**
+C, C++, Java, JavaScript
+
+**Web Development:**
+HTML, CSS, Node.js (learning)
+
+**Hardware & Systems:**
+Arduino, Microcontrollers, VHDL
+
+**Tools:**
+Git, LaTeX, LTspice, Vivado
+
+---
+
+## 🌱 Currently learning
+
+* Backend development (Node.js)
+* Databases (SQL / NoSQL)
+* AI tools and automation
+* Building full-stack applications
+
+---
+
+## 📫 How to reach me
+
+* 📧 Email: [ashangunabc@gmail.com](mailto:ashangunabc@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/chanuka-ashan-gunawardena
+* 💻 GitHub: https://github.com/ash-born-coder
+
+---
+
+## ⚡ About me
+
+* I enjoy building things and learning by doing
+* Strong interest in both hardware and software systems
+* Always curious about new technologies and how they can solve real-world problems
+
+---
