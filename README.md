@@ -1,50 +1,49 @@
-# Hi, I'm Chanuka 👋
+# Hi, I'm Ashan 👋
 
-🎓 Information Engineering student at HAW Hamburg
-💡 Interested in digital systems, hardware design, and embedded systems
-🚀 Currently learning and building my skills across software, hardware, and web development
+**Engineering Student | Embedded Systems • Electronics • CAD • Linux**
 
----
+I'm an engineering student based in Hamburg, Germany, interested in building systems that connect hardware, software, and mechanical design.
 
-## 🔭 What I'm currently working on
+Outside university, I spend my time experimenting with ESP32 microcontrollers, Raspberry Pi computers, Linux, electronics, and 3D printing. I'm also developing my skills in Fusion 360 and KiCad, with the goal of designing more complete hardware systems from the ground up.
 
-* Building a **club dashboard web application** (HTML, CSS, JavaScript, Node.js)
-* Learning **backend development with Node.js**
-* Exploring **databases and system design**
-* Studying **microcontrollers and digital systems (VHDL)**
+My GitHub documents what I'm learning, what I'm building, and the engineering challenges I encounter along the way.
 
----
+## 🔧 Technical Focus
 
-## 🛠️ Tech & Tools
+| Area | Technologies & Tools |
+|---|---|
+| Embedded Systems | ESP32, Raspberry Pi, Arduino |
+| Programming | Python, C/C++ (learning) |
+| Electronics | Breadboarding, Sensors, I2C, GPIO |
+| PCB Design | KiCad (learning) |
+| CAD & Manufacturing | Fusion 360, FreeCAD, FDM 3D Printing |
+| Operating Systems | Ubuntu, Raspberry Pi OS, Linux |
+| Development | Git, GitHub, VS Code |
 
-**Languages:**
-C, C++, Java, JavaScript, VHDL
+## 🚀 Selected Projects
 
-**Web Development:**
-HTML, CSS, Node.js (learning)
+| Project | Description | Status |
+|---|---|---|
+| [PiGuard](https://github.com/ash-born-coder/PiGuard) | Raspberry Pi-based network monitoring and Linux experimentation | In Development |
+| PiScope | Exploring signal analysis, data acquisition, and Python-based visualization | In Development |
+| PiNexus | Developing a custom enclosure and Raspberry Pi-based display system | Design Stage |
+| CAD Portfolio | Documenting parametric modeling, mechanical design, and 3D printing | Ongoing |
+| ESP32 Experiments | Learning microcontroller programming and hardware interfacing | Ongoing |
 
-**Hardware & Systems:**
-Arduino, Microcontrollers
+## 📐 Engineering Interests
 
-**IDE & Tools:**
-Git, LaTeX, LTspice, Vivado
+- Embedded firmware and microcontroller development
+- Electronics and PCB design
+- Parametric CAD and functional 3D printing
+- Embedded Linux and Raspberry Pi systems
+- Sensors, signal processing, and hardware-software integration
 
----
+## 📚 Currently Learning
 
-## 🌱 Currently learning
+I'm currently focusing on strengthening my understanding of electronics, embedded programming, CAD, and PCB design through hands-on projects.
 
-* Backend development (Node.js)
-* Databases (PostgreSQL)
-* AI tools and automation
-* Building full-stack applications
+My longer-term goal is to combine these skills into independently designed and tested engineering systems.
 
----
+## 📍 Based in Hamburg, Germany
 
-## 📫 How to reach me
-
-* 📧 Email: [ashangunabc@gmail.com](mailto:ashangunabc@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/chanuka-ashan-gunawardena
-* 💻 GitHub: https://github.com/ash-born-coder
-
----
-
+Interested in working student opportunities and hands-on engineering experience in embedded systems, electronics, hardware development, and related fields.
