@@ -28,7 +28,7 @@ My GitHub documents what I'm learning, what I'm building, and the engineering ch
 | PiScope | Exploring signal analysis, data acquisition, and Python-based visualization | In Development |
 | PiNexus | Developing a custom enclosure and Raspberry Pi-based display system | Design Stage |
 | CAD Portfolio | Documenting parametric modeling, mechanical design, and 3D printing | Ongoing |
-| ESP32 Experiments | Learning microcontroller programming and hardware interfacing | Ongoing |
+| ESP32Forge | Learning microcontroller programming and hardware interfacing | Ongoing |
 
 ## 📐 Engineering Interests
 
