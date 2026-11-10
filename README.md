@@ -13,11 +13,11 @@ My GitHub documents what I'm learning, what I'm building, and the engineering ch
 | Area | Technologies & Tools |
 |---|---|
 | Embedded Systems | ESP32, Raspberry Pi, Arduino |
-| Programming | Python, C/C++ (learning) |
+| Programming | Python (learning), C/C++ |
 | Electronics | Breadboarding, Sensors, I2C, GPIO |
 | PCB Design | KiCad (learning) |
 | CAD & Manufacturing | Fusion 360, FreeCAD, FDM 3D Printing |
-| Operating Systems | Ubuntu, Raspberry Pi OS, Linux |
+| Operating Systems | Ubuntu, Raspberry Pi OS |
 | Development | Git, GitHub, VS Code |
 
 ## 🚀 Selected Projects
