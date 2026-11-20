@@ -20,16 +20,6 @@ My GitHub documents what I'm learning, what I'm building, and the engineering ch
 | Operating Systems | Ubuntu, Raspberry Pi OS |
 | Development | Git, GitHub, VS Code |
 
-## 🚀 Selected Projects
-
-| Project | Description | Status |
-|---|---|---|
-| [PiGuard](https://github.com/ash-born-coder/PiGuard) | Raspberry Pi-based network monitoring and Linux experimentation | In Development |
-| [PiScope](https://github.com/ash-born-coder/PiScope) | Exploring signal analysis, data acquisition, and Python-based visualization | In Development |
-| [PiNexus](https://github.com/ash-born-coder/PiNexus) | Developing a custom enclosure and Raspberry Pi-based display system | Design Stage |
-| [CAD Portfolio](https://github.com/ash-born-coder/CAD-Engineering-Portfolio) | Documenting parametric modeling, mechanical design, and 3D printing | Ongoing |
-| [ESP32FORGE](https://github.com/ash-born-coder/ESP32FORGE) | Learning microcontroller programming and hardware interfacing | Ongoing |
-
 ## 📐 Engineering Interests
 
 - Embedded firmware and microcontroller development
